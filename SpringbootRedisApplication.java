@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootRedisApplication {
 
 	public static void main(String[] args) {
-		//njlxworld
+		//新增注释 njlxworld
 		SpringApplication.run(SpringbootRedisApplication.class, args);
 	}
 	
